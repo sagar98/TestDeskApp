@@ -1,1 +1,7 @@
-This is Registration file.
+public class Registration
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello Registration!" );
+    }
+}
