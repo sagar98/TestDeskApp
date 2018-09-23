@@ -4,7 +4,7 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>TestDeskApp1.0</artifactId>
   <packaging>jar</packaging>
-  <version>4.0</version>
+  <version>3.0</version>
   <name>TestDeskApp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
